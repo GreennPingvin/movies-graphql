@@ -1,0 +1,16 @@
+{
+  "name": "movieql",
+  "version": "1.0.0",
+  "description": "API for the movie database using GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GreennPingvin/movies-graphql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
